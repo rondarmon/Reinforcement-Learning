@@ -1,5 +1,5 @@
 # Reinforcement-Learning
-Reinforcement Learning course (3640) projects by Roei Arpalay & Ron Darmon
+Reinforcement Learning course (3640) projects by Roei Arpaly & Ron Darmon
 
 Midterm Project: <br>
 solving maze using 3 algorithms:
